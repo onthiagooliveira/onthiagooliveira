@@ -48,7 +48,7 @@
 ### 📫 Contato
 
 - 📧 Email: onthiagooliveira@outlook.com
-- 💼 [LinkedIn](www.linkedin.com/in/thiago-oliveira-ba882a237)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-oliveira-ba882a237/)
 - 🌐 Em breve: meu portfólio online
 
 ---
