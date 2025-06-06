@@ -18,11 +18,10 @@
 - Java EE (Servlets, JSP), Spring Framework
 
 #### Banco de Dados
-- SQL (Oracle), modelagem de dados
+- SQL (Oracle), modelagem de dados - UML
 
 #### Outros
 - Padrões de arquitetura (MVC, Full Stack)
-- Cloud Computing (IBM Cloud), IoT, Inteligência Artificial
 - Criação de Dashboards e projetos voltados para Smart Cities
 
 ---
