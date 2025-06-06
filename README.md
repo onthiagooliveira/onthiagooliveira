@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Thiago Oliveira! 👋</h1>
+<h1 align="justify">Olá, eu sou o Thiago Oliveira! 👋</h1>
 
-<p align="center">
+<p align="justify">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP<br>
   💻 Em transição de carreira para o desenvolvimento web<br>
   🚀 Apaixonado por tecnologia, aprendizado contínuo e soluções inovadoras
