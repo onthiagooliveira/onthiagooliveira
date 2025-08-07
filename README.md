@@ -1,4 +1,4 @@
-<h1 align="justify">Olá, eu sou o Thiago Oliveira! 👋</h1>
+<h1 align="justify">Olá, eu sou o Thiago Oliveira!</h1>
 
 <p align="justify">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP<br>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 Conhecimentos em Desenvolvimento
+### Conhecimentos
 
 #### Front-End
 - HTML5, CSS3, JavaScript
