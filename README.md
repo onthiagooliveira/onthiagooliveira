@@ -2,7 +2,6 @@
 
 <p align="justify">
   Estudante de Análise e Desenvolvimento de Sistemas<br>
-  Em transição de carreira para o desenvolvimento web<br>
 </p>
 
 ---
