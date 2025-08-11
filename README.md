@@ -1,28 +1,35 @@
-<h1 align="justify">Olá, eu sou o Thiago Oliveira!</h1>
+<h1 align="justify">Hey! Eu sou o Thiago Oliveira!</h1>
 
 <p align="justify">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP<br>
-  💻 Em transição de carreira para o desenvolvimento web<br>
+  Estudante de Análise e Desenvolvimento de Sistemas<br>
+  Em transição de carreira para o desenvolvimento web<br>
 </p>
 
 ---
 
 ### Conhecimentos
 
+
 #### Front-End
-- HTML5, CSS3, JavaScript
-- jQuery, Bootstrap
-- Acessibilidade (W3C) e SEO
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
 
 #### Back-End
-- Java EE (Servlets, JSP), Spring Framework
+![- Java EE](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 #### Banco de Dados
-- SQL (Oracle), modelagem de dados - UML
+![-SQL Oracle](https://img.shields.io/badge/Database-Oracle%20SQL-f80000?style=flat-square)
+![-UML](https://img.shields.io/badge/UML%20Modelagem%20de%20Dados-I80000?style=flat-square)
 
-#### Outros
-- Padrões de arquitetura (MVC, Full Stack)
-- Criação de Dashboards e projetos voltados para Smart Cities
+
+#### Controle de Versões
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
