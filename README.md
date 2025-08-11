@@ -31,8 +31,6 @@
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|------------|
 
-*(Mais projetos em breve...)*
-
 ---
 
 ### 📈 Estatísticas
@@ -45,10 +43,6 @@
 ---
 
 ### 📫 Contato
-
-- 📧 Email: onthiagooliveira@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/thiago-oliveira-ba882a237/)
-- 🌐 Em breve: meu portfólio online
-
 ---
 
