@@ -27,6 +27,8 @@
 ## Projetos em Destaque
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
+https://logica-de-programacao-alura-lt1pl0rp4.vercel.app/ | HTML, CSS, JS | Cálculo de IMC - Alura + ONE
+https://logica-de-programacao-alura-lt1pl0rp4.vercel.app/ | HTML, CSS, JS | Estudo lógica de programação 
 https://challenge-amigo-secreto-one-alura.vercel.app/ | HTML, CSS, JS | Challenge ONE + Alura
 
 ---
