@@ -27,7 +27,7 @@
 ## Projetos em Destaque
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-
+https://challenge-amigo-secreto-one-alura.vercel.app/
 
 ---
 
