@@ -1,5 +1,5 @@
 <h1 align="justify">Thiago Oliveira</h1>
-<p align="justify"> Especalizando em Desenvolvimento Fullstack</p>
+<p align="justify"> Especalizando-me em Desenvolvimento Fullstack</p>
 
 
 ## Conhecimentos
