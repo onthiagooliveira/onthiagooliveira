@@ -45,12 +45,3 @@ No meu projeto mais recente, estou aplicando conceitos avançados para construir
 | **Lógica de Programação** | HTML, CSS, JS | [Acessar](https://logica-de-programacao-alura-lt1pl0rp4.vercel.app/) |
 
 ---
-
-## Estatísticas
-<p align="center">
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=onthiagooliveira&show_icons=true&theme=radical"/>
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onthiagooliveira&layout=compact&langs_count=7&theme=radical"/>
-
-</p>
