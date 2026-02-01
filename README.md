@@ -1,5 +1,5 @@
 <h1 align="center">Thiago Oliveira</h1>
-<p align="center">Desenvolvedor Fullstack em constante evolução 🚀</p>
+<p align="center">Desenvolvedor Fullstack em constante evolução </p>
 
 ## Tecnologias e Ferramentas
 
@@ -48,6 +48,9 @@ No meu projeto mais recente, estou aplicando conceitos avançados para construir
 
 ## Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onthiagooliveira&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onthiagooliveira&layout=compact&langs_count=7&theme=radical"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=onthiagooliveira&show_icons=true&theme=radical"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onthiagooliveira&layout=compact&langs_count=7&theme=radical"/>
+
 </p>
