@@ -1,41 +1,53 @@
-<h1 align="justify">Thiago Oliveira</h1>
-<p align="justify"> Especalizando-me em Desenvolvimento Fullstack</p>
+<h1 align="center">Thiago Oliveira</h1>
+<p align="center">Desenvolvedor Fullstack em constante evolução 🚀</p>
 
+## Tecnologias e Ferramentas
 
-## Conhecimentos
+### **Back-End**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Front-End**  
+### **Front-End**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### **Banco de Dados & Migrações**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Back-End**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Banco de Dados**  
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB...svg...&logoColor=white)
-
-**Controle de Versões**  
+### **DevOps & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Arquitetura e Padrões (Projeto Atual)
+No meu projeto mais recente, estou aplicando conceitos avançados para construir aplicações escaláveis:
+
+* **Java 17 & Spring Boot 3**: Utilizando as versões mais recentes e estáveis.
+* **Persistência**: Spring Data JPA com Hibernate.
+* **Banco de Dados**: PostgreSQL com tipos nativos `UUID` e `DECIMAL`.
+* **Versionamento de Banco**: Migrações gerenciadas com Flyway.
+* **Containerização**: Docker e Docker Compose para ambientes isolados.
+* **Padrões de Projeto**: Arquitetura MVC com Camada de Serviço (Service Layer) e DTOs para transferência de dados.
 
 
 ---
 
 ## Projetos em Destaque
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-https://challenge-amigo-secreto-one-alura.vercel.app/ | HTML, CSS, JS | Challenge ONE + Alura
-https://calculadora-de-20468ldeq-onthiagooliveiras-projects.vercel.app/) | HTML, CSS, JS | Cálculo de IMC - Alura + ONE
-https://logica-de-programacao-alura-lt1pl0rp4.vercel.app/ | HTML, CSS, JS | Estudo lógica de programação 
+| Projeto | Tecnologias | Link |
+|:--- |:--- |:--- |
+| **Amigo Secreto** | HTML, CSS, JS | [Acessar](https://challenge-amigo-secreto-one-alura.vercel.app/) |
+| **Cálculo de IMC** | HTML, CSS, JS | [Acessar](https://calculadora-de-20468ldeq-onthiagooliveiras-projects.vercel.app/) |
+| **Lógica de Programação** | HTML, CSS, JS | [Acessar](https://logica-de-programacao-alura-lt1pl0rp4.vercel.app/) |
 
 ---
 
 ## Estatísticas
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=onthiagooliveira&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onthiagooliveira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onthiagooliveira&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onthiagooliveira&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
----
