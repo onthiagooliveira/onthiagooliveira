@@ -1,4 +1,4 @@
-# 👨‍💻 Thiago Oliveira
+# Thiago Oliveira
 <p align="left">
   <strong>Software Engineer | Java 21 | Spring Boot | Backend Developer </strong>
 </p>
@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 Projeto em Destaque (Stealth Mode)
+### Projeto em Destaque (Stealth Mode)
 > **Plataforma de Engenharia Financeira** voltada ao mercado imobiliário, focada em automação de análise de índices e planejamento de longo prazo.
 
 | Feature | Abordagem Técnica |
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológica
+### Stack Tecnológica
 
 #### **Core & Frameworks**
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-### 🧠 Mindset de Engenharia
+### Mindset de Engenharia
 
 * **Foco no Domínio:** Priorizo a compreensão da regra de negócio antes da implementação técnica.
 * **Segurança por Design:** Uso rigoroso de camadas de abstração para integridade da API.
@@ -58,6 +58,3 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onthiagooliveira&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <em>"Transformando requisitos de negócio em código sustentável."</em>
-</p>
