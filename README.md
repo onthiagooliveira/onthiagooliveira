@@ -3,13 +3,40 @@
   <strong>Software Engineer | Java 21 | Spring Boot | Backend Developer</strong>
 </p>
 
-<p align="center">
+<p align="justify">
   Analista e Desenvolvedor de Sistemas focado em construir soluções robustas, escaláveis e com alto rigor técnico. Unindo maturidade profissional e engenharia de software para resolver problemas complexos de previsibilidade financeira.
 </p>
 
 ---
 
-## Tecnologias e Ferramentas
+### Tecnologias & Ecossistema
+
+- **Linguagens:** Java 21 (LTS), SQL (PostgreSQL/Oracle)
+- **Frameworks:** Spring Boot 3.x (Data JPA, Security, Web, Validation)
+- **Persistência & Migrações:** Hibernate, Flyway (Database Versioning)
+- **Infraestrutura:** Docker, Docker Compose, Git
+- **Arquitetura:** MVC, Service Layer, DTO Pattern, RESTful APIs
+
+---
+
+### Projeto em Destaque (Stealth Mode)
+Atualmente lidero o desenvolvimento de uma **Plataforma de Engenharia Financeira** para o setor imobiliário. O foco é automatizar a análise de índices econômicos e oferecer previsibilidade de longo prazo.
+
+**Decisões Técnicas & Implementação:**
+- **Java 21:** Utilização das versões mais recentes para ganho de performance e modernidade de sintaxe.
+- **Integração Externa:** Consumo automatizado de APIs governamentais (**SGS/BACEN**) para coleta de índices como INCC-M.
+- **Modelagem de Dados:** Uso estratégico de `DECIMAL` para precisão financeira e `UUID` para segurança e unicidade de registros.
+- **Containerização:** Ambiente 100% isolado via Docker, garantindo paridade entre desenvolvimento e produção.
+- **Versionamento de Schema:** Gestão de evolução de banco de dados via Flyway para deploys seguros.
+
+---
+
+### Filosofia de Desenvolvimento
+- **Clean Code:** Foco em legibilidade e manutenção de longo prazo.
+- **Pensamento Analítico:** Priorizo entender a regra de negócio antes de escrever a primeira linha de código.
+- **Segurança:** Implementação de camadas de abstração (DTOs) para proteger a integridade da API.
+
+---
 
 ### **Back-End**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
