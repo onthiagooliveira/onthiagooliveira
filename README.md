@@ -4,7 +4,7 @@
 </p>
 
 <p align="justify">
-  Analista e Desenvolvedor de Sistemas focado na construção de ecossistemas robustos e escaláveis. Aplico <strong>maturidade profissional</strong> e engenharia de software para converter problemas complexos em soluções de alta previsibilidade financeira.
+  Analista e Desenvolvedor de Sistemas focado na construção de ecossistemas escaláveis. Aplico <strong>maturidade profissional</strong> e engenharia de software para converter problemas complexos em soluções de alta previsibilidade financeira.
 </p>
 
 <p align="justify">
