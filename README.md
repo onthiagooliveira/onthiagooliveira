@@ -1,14 +1,14 @@
 # Thiago Oliveira
-<p align="left">
+<p align="justify">
   <strong>Software Engineer | Java 21 | Spring Boot | Backend Developer </strong>
 </p>
 
-<p align="left">
+<p align="justify">
   Analista e Desenvolvedor de Sistemas focado na construção de ecossistemas robustos e escaláveis. Aplico <strong>maturidade profissional</strong> e engenharia de software para converter problemas complexos em soluções de alta previsibilidade financeira.
 </p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/SEU-LINK-AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p align="justify">
+  <a href="www.linkedin.com/in/onthiagooliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -52,9 +52,5 @@
 
 ---
 
-### 📈 Atividade Técnica
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=onthiagooliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onthiagooliveira&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+
 
