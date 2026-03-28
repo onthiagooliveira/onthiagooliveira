@@ -1,6 +1,6 @@
 # Thiago Oliveira
 <p align="justify">
-  <strong>Software Engineer | Java 21 | Spring Boot | Backend Developer </strong>
+  <strong> Java 21 | Spring Boot | Backend Developer </strong>
 </p>
 
 <p align="justify">
