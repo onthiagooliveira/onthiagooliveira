@@ -1,5 +1,13 @@
-<h1 align="center">Thiago Oliveira</h1>
-<p align="center">Desenvolvedor Fullstack em constante evolução </p>
+# Thiago Oliveira
+<p align="center">
+  <strong>Software Engineer | Java 21 | Spring Boot | Backend Developer</strong>
+</p>
+
+<p align="center">
+  Analista e Desenvolvedor de Sistemas focado em construir soluções robustas, escaláveis e com alto rigor técnico. Unindo maturidade profissional e engenharia de software para resolver problemas complexos de previsibilidade financeira.
+</p>
+
+---
 
 ## Tecnologias e Ferramentas
 
