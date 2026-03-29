@@ -1,6 +1,6 @@
 # Thiago Oliveira
 <p align="justify">
-  <strong> Java 21 | Spring Boot | Backend Developer </strong>
+  <strong> Java | Spring Boot | Backend Developer </strong>
 </p>
 
 <p align="justify">
@@ -18,7 +18,7 @@
 
 | Feature | Abordagem Técnica |
 | :--- | :--- |
-| **Core Engine** | Java 21 & Spring Boot 3.x (High Performance) |
+| **Core Engine** | Java & Spring Boot 3.x (High Performance) |
 | **Integração** | Consumo resiliente de APIs governamentais (**SGS/BACEN**) |
 | **Data Safety** | Tipagem `DECIMAL` para precisão e `UUID` para proteção de recursos |
 | **Infrastructure** | Containerização completa via Docker & Docker Compose |
