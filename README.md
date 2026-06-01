@@ -18,7 +18,7 @@
 
 | Feature | Abordagem Técnica |
 | :--- | :--- |
-| **Core Engine** | Java & Spring Boot 3.x (High Performance) |
+| **Core Engine** | Java & Spring Boot (High Performance) |
 | **Integração** | Consumo resiliente de APIs governamentais (**SGS/BACEN**) |
 | **Data Safety** | Tipagem `DECIMAL` para precisão e `UUID` para proteção de recursos |
 | **Infrastructure** | Containerização completa via Docker & Docker Compose |
