@@ -13,19 +13,6 @@
 
 ---
 
-### Projeto em Destaque (Stealth Mode)
-> **Plataforma de Engenharia Financeira** voltada ao mercado imobiliário, focada em automação de análise de índices e planejamento de longo prazo.
-
-| Feature | Abordagem Técnica |
-| :--- | :--- |
-| **Core Engine** | Java & Spring Boot (High Performance) |
-| **Integração** | Consumo resiliente de APIs governamentais (**SGS/BACEN**) |
-| **Data Safety** | Tipagem `DECIMAL` para precisão e `UUID` para proteção de recursos |
-| **Infrastructure** | Containerização completa via Docker & Docker Compose |
-| **Versioning** | Evolução de Schema gerenciada por Flyway Migrations |
-
----
-
 ### Stack Tecnológica
 
 #### **Core & Frameworks**
